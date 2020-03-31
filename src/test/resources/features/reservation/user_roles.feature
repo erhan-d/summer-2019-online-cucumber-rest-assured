@@ -1,6 +1,6 @@
 
 
-
+@calculator
 Feature: Calculator
   Agile story:
     As a user,
