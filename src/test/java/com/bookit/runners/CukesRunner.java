@@ -12,8 +12,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/bookit/step_definitions",
          dryRun = false,
-//        tags = "@api and @create_student"
-        tags = "@api and @delete_student"
+
+        tags = "@calculator"
 
 )
 public class CukesRunner {
